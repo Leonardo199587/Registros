@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "656801626050",
+    "project_id": "registros-f18f0",
+    "storage_bucket": "registros-f18f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656801626050:android:c9a96d1d9cc1318906885b",
+        "android_client_info": {
+          "package_name": "com.example.registros"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656801626050-m7vc18tku140lf66cnm602v46buond99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaHoBZWtFYMcOtEsqlmWw4Ok9IEcki95o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656801626050-m7vc18tku140lf66cnm602v46buond99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
