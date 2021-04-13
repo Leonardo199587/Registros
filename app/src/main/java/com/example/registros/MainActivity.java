@@ -27,4 +27,10 @@ public class MainActivity extends AppCompatActivity {
         Intent sig = new Intent(this,Login.class);
         startActivity(sig);
     }
+
+    public void Sig2(View view){
+        Intent sig = new Intent(this,Home.class);
+        startActivity(sig);
+    }
+
 }
